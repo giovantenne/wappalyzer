@@ -4712,6 +4712,15 @@
       "script": "haravan.*\\.js",
       "website": "https://www.haravan.com"
     },
+    "HardyPress": {
+      "cats": [
+        62,
+        57
+      ],
+      "html": "<body [^>]*data-hardypress",
+      "icon": "hardypress.svg",
+      "website": "https://www.hardypress.com"
+    },
     "Haskell": {
       "cats": [
         27
